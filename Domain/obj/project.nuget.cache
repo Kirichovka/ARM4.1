@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBtxnEfkO5I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sasha-Luda\\source\\repos\\Domain\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sasha-Luda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-preview.6.25358.103\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "C:\\Users\\Sasha-Luda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0-preview.6.25358.103\\microsoft.extensions.logging.abstractions.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "C:\\Users\\Sasha-Luda\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0-preview.6.25358.103\\system.diagnostics.diagnosticsource.10.0.0-preview.6.25358.103.nupkg.sha512"
+  ],
+  "logs": []
+}
